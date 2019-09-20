@@ -1,0 +1,11 @@
+C:\Users\opilane\Desktop\liigaasta\liigaasta\bin\Debug\netcoreapp2.0\liigaasta.deps.json
+C:\Users\opilane\Desktop\liigaasta\liigaasta\bin\Debug\netcoreapp2.0\liigaasta.runtimeconfig.json
+C:\Users\opilane\Desktop\liigaasta\liigaasta\bin\Debug\netcoreapp2.0\liigaasta.runtimeconfig.dev.json
+C:\Users\opilane\Desktop\liigaasta\liigaasta\bin\Debug\netcoreapp2.0\liigaasta.dll
+C:\Users\opilane\Desktop\liigaasta\liigaasta\bin\Debug\netcoreapp2.0\liigaasta.pdb
+C:\Users\opilane\Desktop\liigaasta\liigaasta\obj\Debug\netcoreapp2.0\liigaasta.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\liigaasta\liigaasta\obj\Debug\netcoreapp2.0\liigaasta.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\liigaasta\liigaasta\obj\Debug\netcoreapp2.0\liigaasta.AssemblyInfoInputs.cache
+C:\Users\opilane\Desktop\liigaasta\liigaasta\obj\Debug\netcoreapp2.0\liigaasta.AssemblyInfo.cs
+C:\Users\opilane\Desktop\liigaasta\liigaasta\obj\Debug\netcoreapp2.0\liigaasta.dll
+C:\Users\opilane\Desktop\liigaasta\liigaasta\obj\Debug\netcoreapp2.0\liigaasta.pdb
